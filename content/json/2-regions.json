@@ -1,0 +1,22 @@
+[{
+	"x":30,
+	"y":25,
+	"width":25,
+	"height":25,
+	"class":"play-audio",
+	"data":
+		{
+			"audio": "content/audios/0328675776_02cv_a.mp3"
+		}
+},
+{
+	"x":30,
+	"y":345,
+	"width":25,
+	"height":25,
+	"class":"play-audio",
+	"data":
+		{
+			"audio": "content/audios/0328675776_02cv_b.mp3"
+		}
+}]

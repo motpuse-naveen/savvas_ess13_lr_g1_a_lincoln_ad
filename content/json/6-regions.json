@@ -1,0 +1,12 @@
+[{
+	"x":22,
+	"y":265,
+	"width":25,
+	"height":25,
+	"class":"play-audio",
+	"data":
+		{
+			"audio": "content/audios/0328675776_04.mp3"
+		}
+}
+]
